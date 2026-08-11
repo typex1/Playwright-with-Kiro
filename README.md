@@ -1,5 +1,6 @@
 # playwright-cli — Notes & Findings
 
+Browser Automation, including agent control, e.g. via Kiro.
 Practical findings from driving browsers with `playwright-cli` on macOS.
 
 ## Table of contents
